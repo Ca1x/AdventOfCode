@@ -1,4 +1,4 @@
-# 🎄 Advent of Code
+# 🎄 Advent of Code – Multi-Language Solutions
 
 This repository contains my personal solutions to the [Advent of Code](https://adventofcode.com/) programming challenges, implemented in multiple languages.  
 It's a fun way to explore syntax, problem-solving approaches, and performance across different languages.
@@ -6,12 +6,11 @@ It's a fun way to explore syntax, problem-solving approaches, and performance ac
 ---
 
 ## 📁 Repository Structure
-Each language is placed in its own folder, and within each language, solutions are grouped by year.  
-Each file follows the `dayXX.ext` naming convention.
+Each language has its own top-level folder, and within each, solutions are grouped by year.  
+Files follow the naming convention: `dayXX.ext` (e.g., `day01.cpp`, `day15.py`).
 
 ---
 
-## 🧑‍💻 Languages Covered
 
 ## 📊 Coverage by Year and Language
 
