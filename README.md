@@ -37,7 +37,7 @@ Files follow the naming convention: `dayXX.ext` (e.g., `day01.cpp`, `day15.py`).
 
 This is a personal educational project.  
 All problem descriptions and challenges belong to [Advent of Code](https://adventofcode.com/), created by Eric Wastl.  
-No original problem texts are included here — only my own code solutions.
+No original problem texts are included here - only my own code solutions.
 
 ---
 
